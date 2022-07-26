@@ -1,5 +1,5 @@
 
-# tic-tac-toe - Version 2: Vite + Composables
+# tic-tac-toe - Vite + Composables
 
 https://dev.to/_ronini/let-s-build-a-game-with-vue-3-4j7n
 
@@ -12,4 +12,5 @@ npm run dev
 
 
 TODO: 
+Change to 'script setup'
 Add history mode from v1
